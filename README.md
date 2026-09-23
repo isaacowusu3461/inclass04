@@ -1,4 +1,4 @@
-# 🔥 Viral Content Studio
+#  Viral Content Studio
 
 A Flutter social-media post simulator where users can interact with a post and increase its engagement. The app tracks likes, comments, shares, saves, and an engagement streak.
 
